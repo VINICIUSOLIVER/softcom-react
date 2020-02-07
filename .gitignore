@@ -1,0 +1,9 @@
+vendor/
+bootsatrap/cache/*
+storage/
+package-lock.json
+composer.lock
+.env
+node_modules/
+/nbproject/
+.idea/
